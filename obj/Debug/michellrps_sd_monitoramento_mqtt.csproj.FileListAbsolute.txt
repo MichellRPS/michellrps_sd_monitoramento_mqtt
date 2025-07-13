@@ -1,0 +1,15 @@
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\bin\Debug\michellrps_sd_monitoramento_mqtt.exe.config
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\bin\Debug\michellrps_sd_monitoramento_mqtt.exe
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\bin\Debug\michellrps_sd_monitoramento_mqtt.pdb
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\obj\Debug\michellrps_sd_monitoramento_mqtt.csproj.AssemblyReference.cache
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\obj\Debug\michellrps_sd_monitoramento_mqtt.Properties.Resources.resources
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\obj\Debug\michellrps_sd_monitoramento_mqtt.csproj.GenerateResource.cache
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\obj\Debug\michellrps_sd_monitoramento_mqtt.csproj.CoreCompileInputs.cache
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\obj\Debug\michellrps_sd_monitoramento_mqtt.exe
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\obj\Debug\michellrps_sd_monitoramento_mqtt.pdb
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\bin\Debug\M2Mqtt.Net.dll
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\obj\Debug\michellrps_sd_monitoramento_mqtt.FormMonitoramentoMQTT.resources
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\obj\Debug\michellr.81250B9D.Up2Date
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\michellrps\source\repos\michellrps_sd_monitoramento_mqtt\bin\Debug\Newtonsoft.Json.xml

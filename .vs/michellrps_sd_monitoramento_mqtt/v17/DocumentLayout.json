@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1A5A2-849C-4F77-9D7E-9E6D1EA59C85}|michellrps_sd_monitoramento_mqtt.csproj|C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B1A5A2-849C-4F77-9D7E-9E6D1EA59C85}|michellrps_sd_monitoramento_mqtt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1A5A2-849C-4F77-9D7E-9E6D1EA59C85}|michellrps_sd_monitoramento_mqtt.csproj|c:\\users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3B1A5A2-849C-4F77-9D7E-9E6D1EA59C85}|michellrps_sd_monitoramento_mqtt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1A5A2-849C-4F77-9D7E-9E6D1EA59C85}|michellrps_sd_monitoramento_mqtt.csproj|C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\parametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B1A5A2-849C-4F77-9D7E-9E6D1EA59C85}|michellrps_sd_monitoramento_mqtt.csproj|solutionrelative:parametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B1A5A2-849C-4F77-9D7E-9E6D1EA59C85}|michellrps_sd_monitoramento_mqtt.csproj|c:\\users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B1A5A2-849C-4F77-9D7E-9E6D1EA59C85}|michellrps_sd_monitoramento_mqtt.csproj|solutionrelative:leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Leitura.cs",
+              "DocumentMoniker": "C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\Leitura.cs",
+              "RelativeDocumentMoniker": "Leitura.cs",
+              "ToolTip": "C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\Leitura.cs",
+              "RelativeToolTip": "Leitura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:12:37.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parametros.cs",
+              "DocumentMoniker": "C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\Parametros.cs",
+              "RelativeDocumentMoniker": "Parametros.cs",
+              "ToolTip": "C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\Parametros.cs",
+              "RelativeToolTip": "Parametros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:11:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwGQAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:37:14.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\michellrps\\source\\repos\\michellrps_sd_monitoramento_mqtt\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:29:26.54Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
